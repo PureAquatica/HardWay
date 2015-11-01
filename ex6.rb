@@ -10,6 +10,7 @@ puts x
 puts y
 
 # String in string
+# Single quotes do not work here, it will just say #{x}, must use double quotes
 puts "I said: #{x}."
 # String in string
 puts "I also said: '#{y}'."

@@ -1,6 +1,7 @@
 puts "I will now count my chickens"
 
 # This will perform the math
+# Add a .0 to the end of a number to make ruby use floating point. 
 puts "Hens #{25.0 + 30.0 / 6}"
 
 # This will perform the math

@@ -25,5 +25,3 @@ txt_again = open(file_again)
 # printing the contents of the file for the user.
 print txt_again.read
 
-# close the connection
-txt_again.close()

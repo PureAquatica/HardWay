@@ -32,3 +32,5 @@ target.write("\n")
 
 puts "And finally, we close it."
 target.close
+
+#http://learnrubythehardway.org/book/ex16.html
